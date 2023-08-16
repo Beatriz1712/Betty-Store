@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Betty-Store/static/css/main.0fcc1ab9.css",
+    "main.js": "/Betty-Store/static/js/main.6250f991.js",
+    "index.html": "/Betty-Store/index.html",
+    "main.0fcc1ab9.css.map": "/Betty-Store/static/css/main.0fcc1ab9.css.map",
+    "main.6250f991.js.map": "/Betty-Store/static/js/main.6250f991.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fcc1ab9.css",
+    "static/js/main.6250f991.js"
+  ]
+}
