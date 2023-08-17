@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className='containerHome' >
       <h1>
-        ¡¡¡ Bienvenidos a  BettyStore !!!
+        ¡¡¡ Bienvenid@s a  BettyStore !!!
       </h1>
    </div>
   )
