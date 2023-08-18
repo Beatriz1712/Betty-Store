@@ -7,6 +7,8 @@
 El producto o productos seleccionados de cargan en el carrito de compras,en el que se detalla el nombre del producto,descripcion del producto,precio unitario ,precio total,imagen del producto.
 * Hay un boton agregar,para añadir la catidad de productos seleccionados.
 Nos indica tambien si el cliente desea vaciar el carrito y seleccionar nuevamente otros productos.
+* Se puede ir a carrito y se obserba los productos cargados.
+* Se puede finalizar la compra ,haciendo el llenado del formulario Contacto,en el cúal ingresas nombre de usuario ,email y telefóno y la aplicación te devuelve el número de pedido.
 
 ## Tecnologias usadas
 * Boostrap
