@@ -14,7 +14,7 @@ Nos indica tambien si el cliente desea vaciar el carrito y seleccionar nuevament
 * React 
 * JavaScript
 
-[el video](http://video.gif)
+[Mi video de la app](https://github.com/Beatriz1712/Betty-Store/assets/126209925/117bca15-fb88-4a43-8561-b5b5121720ec)
 
 
 
